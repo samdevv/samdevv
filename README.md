@@ -1,8 +1,11 @@
 ### Hi there 👋 ,Am a Software Developer based in Nairobi Kenya.Am proficient in Programming and Payments Integrations such as MPESA and Cards.
 Programming languages include PHP,Laravel,Node Js,Python(Flask) for server side and  Vue Js for front-end.
-I have also worked on blockchain applications for wallet creations,tokensa transfer and in Solidity forsmart contracts writing.
+I have also worked on blockchain applications for wallet creations,tokens a transfer and in Solidity for smart contracts writing.
 Am passionate about learning and trying new technology.
-
+Project o productio iclude:
+Ecommerce Application
+News Websites
+Educational website
 <!--
 **samdevv/samdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
