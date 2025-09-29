@@ -1,5 +1,5 @@
 ### Hi there 👋 ,Am a Software Developer based in Nairobi Kenya.Am proficient in Programming and Payments Integrations such as MPESA and Cards.
-Programming languages include PHP,Node Js,Python(Flask) for server side and  Vue Js,React Angular for front-end.
+Programming languages include PHP,Laravel,Node Js,Python(Flask) for server side and  Vue Js for front-end.
 I have also worked on blockchain applications for wallet creations,tokensa transfer and in Solidity forsmart contracts writing.
 Am passionate about learning and trying new technology.
 
