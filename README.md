@@ -2,11 +2,10 @@
 Programming languages include PHP,Laravel,Node Js,Python(Flask) for server side and  Vue Js for front-end.
 I have also worked on blockchain applications for wallet creations,tokens a transfer and in Solidity for smart contracts writing.
 Am passionate about learning and trying new technology.
-Project o productio iclude:
+Project on production iclude:
 Ecommerce Application
 News Websites
 Educational website
-<img width="1351" height="492" alt="Screenshot from 2025-09-29 20-57-23" src="https://github.com/user-attachments/assets/fd3a111e-0464-4afe-80e0-d5b953b7ce3f" />
 
 <!--
 **samdevv/samdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
