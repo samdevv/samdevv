@@ -2,7 +2,7 @@
 Programming languages include PHP,Laravel,Node Js,Python(Flask) for server side and  Vue Js for front-end.
 I have also worked on blockchain applications for wallet creations,tokens a transfer and in Solidity for smart contracts writing.
 Am passionate about learning and trying new technology.
-Project on production iclude:
+Projects on production include:
 Ecommerce Application
 News Websites
 Educational website
