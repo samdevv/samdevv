@@ -11,7 +11,7 @@ School Management System
  <img width="1351" height="492" alt="Screenshot from 2025-09-29 20-57-23" src="https://github.com/user-attachments/assets/2ae869cd-bcf7-4e98-afbc-004b9f007817" />
 <img width="1366" height="1300" alt="Screenshot_blurred" src="https://github.com/user-attachments/assets/82c347b8-3e4b-4e32-a111-c599faaf6b6a" />
 
-![Uploading smss.png…]()
+<img width="1353" height="642" alt="smss" src="https://github.com/user-attachments/assets/06e7b714-2dd5-46b7-92f6-0774a4839944" />
 
 
 <!--
