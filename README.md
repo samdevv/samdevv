@@ -7,7 +7,8 @@ Ecommerce Application
 News Websites
 Educational website
 Parcel Management System
-<img width="1360" height="546" alt="Screenshot from 2025-09-29 21-04-14" src="https://github.com/user-attachments/assets/08526a1f-2752-4dbc-9a60-aefa9727691e" />
+ <img width="1351" height="492" alt="Screenshot from 2025-09-29 20-57-23" src="https://github.com/user-attachments/assets/2ae869cd-bcf7-4e98-afbc-004b9f007817" />
+
 
 
 <!--
