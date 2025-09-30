@@ -4,9 +4,10 @@ I have also worked on blockchain applications for wallet creations,tokens a tran
 Am passionate about learning and trying new technology.
 Projects on production include:
 Ecommerce Application
-News Websites
-Educational website
-Parcel Management System
+News Websites 
+Educational website - Mentor Mentee
+Parcel Management System -Bus/Matatu Saccos in Nairobi
+School Management System
  <img width="1351" height="492" alt="Screenshot from 2025-09-29 20-57-23" src="https://github.com/user-attachments/assets/2ae869cd-bcf7-4e98-afbc-004b9f007817" />
 <img width="1366" height="1300" alt="Screenshot_blurred" src="https://github.com/user-attachments/assets/82c347b8-3e4b-4e32-a111-c599faaf6b6a" />
 
